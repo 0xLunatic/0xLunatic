@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @DreamerDotID
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Python and C++
-- 💞️ I’m looking to collaborate on someone that can support me
-- 📫 How to reach me dreamerdotid@gmail.com
+```
+dreamerdotid@github:~$ ./welcome.sh
+```
+```
+ _____________________________________
+< Welcome to my personal github page! >
+ ------------------------------------- 
+        \  
+         \    __      _
+            o'')}____//
+             `_/      )
+             (_(_/-(_/
 
-<!---
-DreamerDotID/DreamerDotID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```
+```
+-------------------------
+   dreamerdotid@github
+-------------------------
+🏫 Server Developer of [Crazy Network](https://crazynetwork.xyz/)
+🌟 Main languages: Java, PHP, Python
+🚩 Interested in game development
+🎵 Love Hip/Hop, Rap, Lo-Fi
+⚡ Love meat (but not seafood) 🥩
+```
