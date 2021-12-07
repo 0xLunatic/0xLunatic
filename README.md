@@ -19,7 +19,7 @@ dreamerdotid@github:~$ ./welcome.sh
 ```
 ```
 🏫 Server Developer on Indonesian Minecraft Server
-🌟 Main languages: Java, PHP, Python
+🌟 Main languages: Java
 🚩 Interested in game development
 🎵 Love Hip/Hop, Rap, Lo-Fi
 ⚡ Love meat (but not seafood) 🥩
