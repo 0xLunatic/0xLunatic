@@ -22,5 +22,5 @@ dreamerdotid@github:~$ ./welcome.sh
 🌟 Main languages: Java
 🚩 Interested in game development
 🎵 Love Hip/Hop, Rap, Lo-Fi
-⚡ Love meat (but not seafood) 🥩
+⚡ Love meat
 ```
