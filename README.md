@@ -18,7 +18,7 @@ dreamerdotid@github:~$ ./welcome.sh
 -------------------------
 ```
 ```
-🏫 Server Developer on Indonesian Minecraft Server
+🏫 Server Developer on https://crazynetwork.xyz/
 🌟 Main languages: Java
 🚩 Interested in game development
 🎵 Love Hip/Hop, Rap, Lo-Fi
