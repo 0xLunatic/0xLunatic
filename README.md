@@ -15,6 +15,5 @@ dreamerdotid@github:~$ ./welcome.sh
 🏫 Server Developer on crazynetwork.xyz
 🌟 Main languages: Java
 🚩 Interested in Game Development
-🎵 Love Hip/Hop, Rap, Lo-Fi
 ⚡ Love meat
 ```
