@@ -7,7 +7,6 @@ dreamerdotid@github:~$ ./welcome.sh
  ------------------------------------- 
 
 
-```
 🌟 Main languages: Java
 🚩 Interested in Game Development
 ```
