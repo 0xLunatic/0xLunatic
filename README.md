@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1> Welcome to My Github!</h1>
-![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </div>
 
 # About
