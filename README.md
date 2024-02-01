@@ -4,6 +4,8 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=0xLunatic&color=blue"/></p>  
+
 # About
 - Currently learning about NodeJS and Python
 
