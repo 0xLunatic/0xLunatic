@@ -6,9 +6,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xLunatic&color=blue"/></p>  
 
-# About
-- Currently learning about NodeJS and Python
-
 # 💻Status
 ![0xLunatic's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xLunatic&show_icons=true&theme=onedark)
 
